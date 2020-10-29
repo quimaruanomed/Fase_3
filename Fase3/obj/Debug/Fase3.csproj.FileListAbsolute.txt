@@ -1,0 +1,7 @@
+C:\Users\jruan\source\repos\Fase3\Fase3\bin\Debug\Fase3.exe.config
+C:\Users\jruan\source\repos\Fase3\Fase3\bin\Debug\Fase3.exe
+C:\Users\jruan\source\repos\Fase3\Fase3\bin\Debug\Fase3.pdb
+C:\Users\jruan\source\repos\Fase3\Fase3\obj\Debug\Fase3.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\Fase3\Fase3\obj\Debug\Fase3.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\Fase3\Fase3\obj\Debug\Fase3.exe
+C:\Users\jruan\source\repos\Fase3\Fase3\obj\Debug\Fase3.pdb
